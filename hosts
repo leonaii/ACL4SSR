@@ -53,6 +53,7 @@
 
 0.0.0.0 open.e.kuaishou.cn
 
+0.0.0.0 p3-pp.adkwai.com
 0.0.0.0 v3.adkwai.com
 0.0.0.0 p2-yxjz.adkwai.com
 0.0.0.0 var----ad-jx----var.adkwai.com
@@ -89,6 +90,10 @@
 0.0.0.0 p2-yx.adkwai.com
 0.0.0.0 p1.adkwai.com
 
+0.0.0.0 p5-lm.adukwai.com
+0.0.0.0 p3-lm.adukwai.com
+0.0.0.0 p1-ad-fdl.adukwai.com
+0.0.0.0 d1-ad-fdl.adukwai.com
 0.0.0.0 v2-ad-fdl.adukwai.com
 0.0.0.0 v5-ad-fdl.adukwai.com
 0.0.0.0 v3-ad-fdl.adukwai.com
@@ -123,6 +128,8 @@
 0.0.0.0 p2-lm.adukwai.com
 0.0.0.0 p1-lm.adukwai.com
 
+0.0.0.0 pay.e.qq.com
+0.0.0.0 support.e.qq.com
 0.0.0.0 chengfeng.e.qq.com
 0.0.0.0 zizhu.e.qq.com
 0.0.0.0 amstest.e.qq.com
@@ -192,6 +199,7 @@
 0.0.0.0 sdk.e.qq.com
 0.0.0.0 cm.e.qq.com
 
+0.0.0.0 v2ii.gdt.qq.com
 0.0.0.0 test-v.gdt.qq.com
 0.0.0.0 test-c.gdt.qq.com
 0.0.0.0 caid.gdt.qq.com
@@ -378,6 +386,7 @@
 
 0.0.0.0 api.juliangcili.com
 
+0.0.0.0 ssapi.anythinktech.com
 0.0.0.0 tkmax.anythinktech.com
 0.0.0.0 h5-api.anythinktech.com
 0.0.0.0 adx-h.anythinktech.com
