@@ -1,0 +1,5 @@
+# 内容：自定义需要代理的域名
+DOMAIN-KEYWORD,qiniu
+DOMAIN,openai.qiniu.com
+DOMAIN,qiniu.com
+DOMAIN-SUFFIX,qiniu.com
