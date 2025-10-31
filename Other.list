@@ -1,5 +1,11 @@
 # 内容：自定义需要代理的域名
 DOMAIN-KEYWORD,qiniu
+DOMAIN-KEYWORD,windsurf.com
 DOMAIN,openai.qiniu.com
 DOMAIN,qiniu.com
+DOMAIN,marketplace.windsurf.com
+DOMAIN,windsurf.com
+DOMAIN,windsurf.cn
 DOMAIN-SUFFIX,qiniu.com
+DOMAIN-SUFFIX,windsurf.cn
+DOMAIN-SUFFIX,windsurf.com
