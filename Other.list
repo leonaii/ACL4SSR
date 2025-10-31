@@ -1,13 +1,16 @@
-# 内容：自定义需要代理的域名
-DOMAIN-KEYWORD,qiniu
-DOMAIN-KEYWORD,windsurf.com
-DOMAIN,openai.qiniu.com
-DOMAIN,qiniu.com
-DOMAIN,marketplace.windsurf.com
-DOMAIN,windsurf.com
-DOMAIN,windsurf.cn
-DOMAIN,codeium.com
-DOMAIN-SUFFIX,qiniu.com
-DOMAIN-SUFFIX,windsurf.cn
-DOMAIN-SUFFIX,windsurf.com
-DOMAIN-SUFFIX,codeium.com
+# 本地流量直连（最高优先级）
+DOMAIN-SUFFIX,localhost,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+IP-CIDR,192.168.0.0/16,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+
+# Windsurf 外网域名代理
+DOMAIN,marketplace.windsurf.com,PROXY
+DOMAIN,api.windsurf.com,PROXY
+DOMAIN-SUFFIX,windsurf.com,PROXY
+DOMAIN-SUFFIX,windsurf.cn,PROXY
+DOMAIN-SUFFIX,codeium.com,PROXY
+
+# 七牛云代理
+DOMAIN-SUFFIX,qiniu.com,PROXY
+DOMAIN,openai.qiniu.com,PROXY
