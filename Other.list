@@ -9,7 +9,11 @@ DOMAIN,marketplace.windsurf.com,PROXY
 DOMAIN,api.windsurf.com,PROXY
 DOMAIN-SUFFIX,windsurf.com,PROXY
 DOMAIN-SUFFIX,windsurf.cn,PROXY
+
+#Cursor 相关域名代理
 DOMAIN-SUFFIX,codeium.com,PROXY
+DOMAIN-SUFFIX,cursorapi.com,PROXY
+DOMAIN-KEYWORD,cursor,PROXY
 
 # 七牛云代理
 DOMAIN-SUFFIX,qiniu.com,PROXY
