@@ -4,13 +4,16 @@ IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
 
+# Cursor 进程代理
+PROCESS-NAME,Cursor.exe,PROXY
+
 # Windsurf 外网域名代理
 DOMAIN,marketplace.windsurf.com,PROXY
 DOMAIN,api.windsurf.com,PROXY
 DOMAIN-SUFFIX,windsurf.com,PROXY
 DOMAIN-SUFFIX,windsurf.cn,PROXY
 
-#Cursor 相关域名代理
+# Cursor 相关域名代理
 DOMAIN-SUFFIX,codeium.com,PROXY
 DOMAIN-SUFFIX,cursorapi.com,PROXY
 DOMAIN-KEYWORD,cursor,PROXY
